@@ -9,10 +9,14 @@ Los datos de los canales TDT de radio y TV de Cádiz están contenidos en
 el archivo https://github.com/cparodif/tdt/blob/main/tdtTVCadiz.sxpf
 
 Puede cargar los canales de TDT en VLC
-VLC -> Menu -> Ver -> Lista de reproduccion
-VLC -> Menu -> Abrir archivo -> tdtTV.....xspf (archivo descargado con la lista de reproducción)
-Se cargan los canales en la lista de reproducción
-Seleccionar una canal
+
+1.- VLC -> Menu -> Ver -> Lista de reproduccion
+
+2.- VLC -> Menu -> Abrir archivo -> tdtTV.....xspf (archivo descargado con la lista de reproducción)
+
+3.- Se cargan los canales en la lista de reproducción
+
+4.- Seleccionar una canal
 
 Información sobre las frecuencias de los canales:
 https://www.tdt1.com/canales-cadiz/
