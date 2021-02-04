@@ -9,3 +9,7 @@ Debe estar instalado VLC https://www.videolan.org/vlc/
 
 Doble click sobre el fichero con extension .xspf y se cargan los canales en la lista de reproducción
 
+https://www.xspf.org/applications/
+
+
+
