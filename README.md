@@ -5,7 +5,7 @@ El equipo necesita tener conectada una tarjeta sintonizadora de TDT,
 con su correspondiente antena de televisión en la azotea , 
 y debe estar instalado VLC https://www.videolan.org/vlc/ 
 
-Los datos de los canales TDT de radio y RV de Cádiz están contenidos en
+Los datos de los canales TDT de radio y TV de Cádiz están contenidos en
 el archivo https://github.com/cparodif/tdt/blob/main/tdtTVCadiz.sxpf
 
 Puede cargar los canales de TDT en VLC
