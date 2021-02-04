@@ -55,8 +55,7 @@ https://www.youtube.com/watch?v=KXgWDnW02Qw ¡¡Ver la TDT con VLC!! Sácale par
 
 https://github.com/ruvelro/TV-Online-TDT-Spain
 
-https://laboratoriolinux.es/index.php/-noticias-mundo-linux-/aula-linuxera/aula/5604-how-to-el-tdt-en-ubuntu-para-seres-humanos-leoneses-post-con-fotos-de-chicas-
-guapas-semi-desnudas.html
+https://laboratoriolinux.es/index.php/-noticias-mundo-linux-/aula-linuxera/aula/5604 how-to-el-tdt-en-ubuntu-para-seres-humanos-leoneses-post-con-fotos
 
 https://forum.videolan.org/viewtopic.php?t=100346
 
