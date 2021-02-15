@@ -722,9 +722,75 @@
 		</track>
 		<track>
 			<location>dvb-t://frequency=650000000:bandwidth=8</location>
-			<title>Programas frec 650 Chiclana</title>
+			<title>#Tuya La Janda HD 650</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
 				<vlc:id>66</vlc:id>
+				<vlc:option>dvb-adapter=0</vlc:option>
+				<vlc:option>dvb-bandwith=8</vlc:option>
+				<vlc:option>program=3</vlc:option>
+				<vlc:option>live-caching=2000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=650000000:bandwidth=8</location>
+			<title>.8 TV CHICLANA Y JANDA HD 650</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+				<vlc:option>dvb-adapter=0</vlc:option>
+				<vlc:option>dvb-bandwith=8</vlc:option>
+				<vlc:option>program=1</vlc:option>
+				<vlc:option>live-caching=2000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=650000000:bandwidth=8</location>
+			<title>.7TV CHICLANA HD 650</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+				<vlc:option>dvb-adapter=0</vlc:option>
+				<vlc:option>dvb-bandwith=8</vlc:option>
+				<vlc:option>program=2</vlc:option>
+				<vlc:option>live-caching=2000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=650000000:bandwidth=8</location>
+			<title>#Tuya La Janda 650</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+				<vlc:option>dvb-adapter=0</vlc:option>
+				<vlc:option>dvb-bandwith=8</vlc:option>
+				<vlc:option>program=6</vlc:option>
+				<vlc:option>live-caching=2000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=650000000:bandwidth=8</location>
+			<title>.8 TV CHICLANA Y JANDA 650</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+				<vlc:option>dvb-adapter=0</vlc:option>
+				<vlc:option>dvb-bandwith=8</vlc:option>
+				<vlc:option>program=4</vlc:option>
+				<vlc:option>live-caching=2000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=650000000:bandwidth=8</location>
+			<title>.7TV CHICLANA 650</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+				<vlc:option>dvb-adapter=0</vlc:option>
+				<vlc:option>dvb-bandwith=8</vlc:option>
+				<vlc:option>program=5</vlc:option>
+				<vlc:option>live-caching=2000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>dvb-t://frequency=650000000:bandwidth=8</location>
+			<title>Programas frec 650 Chiclana</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>live-caching=2000</vlc:option>
@@ -734,7 +800,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>CanalSur 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>67</vlc:id>
+				<vlc:id>73</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2017</vlc:option>
@@ -745,7 +811,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>CanalSur2 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>68</vlc:id>
+				<vlc:id>74</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2018</vlc:option>
@@ -756,7 +822,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>C.S.R.Cádiz 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>69</vlc:id>
+				<vlc:id>75</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2019</vlc:option>
@@ -767,7 +833,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>FlamencoRadio.com 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>70</vlc:id>
+				<vlc:id>76</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2020</vlc:option>
@@ -778,7 +844,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>CanalSurHD 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>71</vlc:id>
+				<vlc:id>77</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2021</vlc:option>
@@ -789,7 +855,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>BOM 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>72</vlc:id>
+				<vlc:id>78</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2022</vlc:option>
@@ -800,7 +866,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>Canal Fiesta R 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>73</vlc:id>
+				<vlc:id>79</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2023</vlc:option>
@@ -811,7 +877,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>R.A.I.Cádiz 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>74</vlc:id>
+				<vlc:id>80</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2024</vlc:option>
@@ -822,7 +888,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>AndaluciaTV 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>75</vlc:id>
+				<vlc:id>81</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2026</vlc:option>
@@ -833,7 +899,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>Radio 4G Nostalgia 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>76</vlc:id>
+				<vlc:id>82</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>program=2028</vlc:option>
@@ -844,7 +910,7 @@
 			<location>dvb-t://frequency=674000000:bandwidth=8</location>
 			<title>Programas frec 674</title>
 			<extension application="http://www.videolan.org/vlc/playlist/0">
-				<vlc:id>77</vlc:id>
+				<vlc:id>83</vlc:id>
 				<vlc:option>dvb-adapter=0</vlc:option>
 				<vlc:option>dvb-bandwith=8</vlc:option>
 				<vlc:option>live-caching=2000</vlc:option>
@@ -930,5 +996,11 @@
 		<vlc:item tid="75"/>
 		<vlc:item tid="76"/>
 		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
 	</extension>
 </playlist>
