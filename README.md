@@ -1,4 +1,5 @@
-# tdt
+Actualizado el 15/2/2021 incluye todas las emisoras recibidas en Chiclana, Cádiz
+# tdt 
 Ver tv TDT solo con sintonizador usb en tu Ordenador con el programa VLC.
 
 El equipo necesita tener conectada una tarjeta sintonizadora de TDT, 
